@@ -16,7 +16,7 @@ Welcome to the ToDo Android App repository! This simple and intuitive app is des
 ## User Interface: Design an intuitive and user-friendly inter
 
 # Clone the Repository:
-git clone
+git clone https://github.com/Rohityadav9575/CODSOFT.git
 
 
 Contributions are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Check out our Contribution Guidelines for more details.
